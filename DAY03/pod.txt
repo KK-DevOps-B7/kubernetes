@@ -8,7 +8,7 @@ what is a pod?
 
 --> Inside a pod, you can have one or more containers. Those containers all share a unique network IP, storage, network and any other specification applied to the pod.
 
---> POD is a group of one or more containers which will be running on some node
+--> POD is a group of one or more containers which will be running on same node
 
 --> Each Pod has its unique IP Address within the cluster.
 
